@@ -1,19 +1,19 @@
 ---
 author: Erin Robinson @connector_erin
 cascade:
-  show_author_byline: true
+  show_author_byline: false
   show_comments: false
   show_post_date: true
   sidebar:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: Links to projects I'm supporting
+description: Check out some of my work! 
 layout: list-grid
-show_author_byline: true
+show_author_byline: false
 show_button_links: false
 show_post_date: false
-show_post_thumbnail: true
+show_post_thumbnail: false
 sidebar:
   author: The R Markdown Team @RStudio
   description: "Projects can be anything!\nCheck out the _index.md file in the /project
