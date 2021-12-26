@@ -13,6 +13,8 @@ link_list:
   url: https://openscienceleadershipcoaching.com/
 - name: Openscapes 
   url: https://www.openscapes.org/
+- name: CU Boulder - InfoSci 
+  url: https://www.colorado.edu/cmci/people/information-science/erin-robinson
 ---
 
 ** index doesn't contain a body, just front matter above.
