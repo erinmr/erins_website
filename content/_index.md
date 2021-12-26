@@ -12,7 +12,7 @@ images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+subtitle: "Co-founder #metadatagamechangers | @cuinfoscience focused on #openscience infrastructure"
 text_align_left: false
 title: "Erin Robinson"
 type: home
