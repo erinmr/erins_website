@@ -1,8 +1,8 @@
 ---
-action_label: Read More &rarr;
+action_label: About Me &rarr;
 action_link: /about
 action_type: text
-description: "I am an Open science champion, information scientist, Earth scientist, leadership coach and small business co-founder. I work with teams to develop technical and social strategies that support collaborative information infrasturucturing and empower them to do better, open science."
+description: "I wear many hats - researcher, business owner, coach and Open science community builder. I work with teams to develop technical and social strategies that support collaborative information infrasturucturing and empower them to do better, more Open science."
 image_left: true
 images:
 - img/Erin.JPG
