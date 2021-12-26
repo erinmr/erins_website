@@ -28,7 +28,7 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "Metadata Game Changers and CU-Boulder, Info Science Doctoral Student"
+  orgName = "Erin Robinson"
   orgLocal = "Boulder, CO"
   description = "A central spot about me."
   favicon = "/img/favicon.ico"
