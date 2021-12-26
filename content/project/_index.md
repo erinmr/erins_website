@@ -1,5 +1,5 @@
 ---
-author: The R Markdown Team @RStudio
+author: Erin Robinson @connector_erin
 cascade:
   show_author_byline: true
   show_comments: false
@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: Give your projects a place to live online.
+description: Projects I am involved in.
 layout: list-grid
 show_author_byline: true
 show_button_links: false
