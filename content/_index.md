@@ -2,17 +2,13 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
+description: "Erin works at the intersection of community informatics, Earth science and non-profit management. Over the last 10+ years, she has honed an eclectic skill set both technical and managerial, creating communities and programs with lasting impact around science, data, and technology.She is passionate about fostering innovation through collaboration across diverse nodes."
 image_left: true
 images:
-- img/Erin.jpg
+- img/Erin.JPG
 show_action_link: true
 show_social_links: true
-subtitle: "Co-founder #metadatagamechangers | @cuinfoscience focused on #openscience infrastructure"
+subtitle: "Co-founder [#metadatagamechangers](https://metadatagamechangers.com/) | Ph.D. Student [University of Colorado, Information Science](https://www.colorado.edu/cmci/infoscience)"
 text_align_left: false
 title: "Erin Robinson"
 type: home
