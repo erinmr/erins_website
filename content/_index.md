@@ -2,13 +2,13 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: "Erin works at the intersection of information science, Earth science and community management."
+description: "I am an Open science champion, information scientist, Earth scientist, leadership coach and small business co-founder. I work with teams to develop technical and social strategies that support collaborative information infrasturucturing and empower them to do better, open science."
 image_left: true
 images:
 - img/Erin.JPG
 show_action_link: true
 show_social_links: true
-subtitle: Co-founder, Metadata Game Changers | Ph.D. Student, University of Colorado, Information Science
+subtitle: Co-founder, Metadata Game Changers, LLC | Ph.D. Student, University of Colorado, Information Science
 text_align_left: false
 title: "Erin Robinson"
 type: home
