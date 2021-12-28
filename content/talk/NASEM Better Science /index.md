@@ -28,4 +28,4 @@ title: Better Science for Future Us
 Julie Lowndes and I presented an invited talk “Better Science for Future Us” virtually at the 2021 NASEM joint Mapping Sciences Committee and the Geographical Sciences Committee Workshop, Accelerating the Analysis of Geographic Change, in a session “Data interoperability”. We realized in preparing for this talk that while often the focus is on tooling, what Openscapes provides is the connection between tools and people. 
 
 
-Cite as: Lowndes, J., & Robinson, E. (2021). Better Science for Future Us. NASEM joint Mapping Sciences Committee and the Geographical Sciences Committee Workshop.
+Cite as: Lowndes, J., & Robinson, E. (2021). Better Science for Future Us. Fall Meeting of the NASEM Mapping Sciences Committee and the Geographical Sciences Committee.
