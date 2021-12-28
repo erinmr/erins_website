@@ -8,7 +8,7 @@ images:
 - img/Erin.JPG
 show_action_link: true
 show_social_links: true
-subtitle: Co-founder, Metadata Game Changers, LLC | Ph.D. Student, University of Colorado, Information Science
+subtitle: Co-founder, Metadata Game Changers, LLC <br> Ph.D. Student, University of Colorado, Information Science
 text_align_left: false
 title: "Erin Robinson"
 type: home
