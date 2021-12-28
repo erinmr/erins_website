@@ -2,7 +2,7 @@
 action_label: About Me &rarr;
 action_link: /about
 action_type: text
-description: "I wear many hats: researcher, business owner, leadership coach and Open science community builder. I work with teams to develop technical and social strategies that support collaborative information infrasturucturing and empower them to do better, more Open science."
+description: "This site is a work in progress, but finally a consolidation and home for the many places I exist on the web. I wear many hats: researcher, business owner, leadership coach and Open science community builder. I work with teams to develop technical and social strategies that support collaborative information infrasturucturing and empower them to do better, more Open science."
 image_left: true
 images:
 - img/Erin.JPG
