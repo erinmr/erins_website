@@ -1,66 +1,25 @@
 ---
-author: Eric Anderson
+author: Erin Robinson
 categories:
-- Theme Features
-- R
-- package
-date: "2019-07-01"
+- Current Project
+date: "2021-01-01"
 draft: false
-excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
-  integration. All you need to activate the form is a valid recipient email address
-  saved in the form front matter.
+excerpt: The FAIR Island Project, a collaboration between the California Digital Library, UC Berkeley, DataCite, Metadata Game Changers and the Tetiaroa Society. The primary goal of the Project is to develop optimal data policies and robust technical infrastructure necessary to create an environment in which all data and knowledge collected at a field station are curated and made openly available as quickly as possible. 
 layout: single
 links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://bakeoff.netlify.com/
+  url: https://www.fairisland.org/
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/apreshill/bakeoff
-subtitle: An R Package
+  url: https://github.com/CDLUC3/FAIRIsland
+subtitle: A field station information infrastructure imaginary 
 tags:
 - hugo-site
-title: Bakeoff
+title: FAIR Island
 ---
 
-![Formspree Logo](formspree-logo.png)
-
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
-
----
-
-### Functional Form
-
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
-
-```toml
-# please replace with a valid Formspree form id or email address
-formspree_form_id: your@email.here
-```
-
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
-
-### Multiple Layouts
-
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
-
-```toml
-# layout options: split-right or split-left
-layout: split-right
-```
-
-![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
-
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.
+## About the FAIR Island Project
+The FAIR Island Project, a collaboration between the California Digital Library, UC Berkeley, DataCite, Metadata Game Changers and the Tetiaroa Society. The primary goal of the Project is to develop optimal data policies and robust technical infrastructure necessary to create an environment in which all data and knowledge collected at a field station are curated and made openly available as quickly as possible. The host of our initial field station, the Tetiaroa Ecostation, grounds our work and provides an initial place to implement and evolve the policies and infrastructure in the real world. We believe that through this collaboration the Project will make research data and outputs collected at the Tetiaroa Ecostation and other field sites more findable, accessible, interoperable and reusable and will accelerate that research to the benefit of all stakeholders. 
