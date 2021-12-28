@@ -3,7 +3,7 @@ author: Julie Stewart Lowndes, Erin Robinson
 categories:
 - conference
 date: "2021-12-17"
-date_end: "2021-12-17"
+date_end: 
 draft: false
 event: American Geophysical Union Fall Meeting (2021)
 event_url: https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/122142
