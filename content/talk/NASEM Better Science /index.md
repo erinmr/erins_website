@@ -1,9 +1,9 @@
 ---
-author: Julie Stewart Lowndes, Erin Robinson
+author: Erin Robinson, Julie Stewart Lowndes
 categories:
 - workshop
-date: "2021-12-17T09:20:00-07:00"
-date_end: "2021-12-17T09:50:00-07:00"  
+date: "2021-12-08T09:20:00-07:00"
+date_end: "2021-12-08T09:50:00-07:00"  
 draft: false
 event: Fall Meeting of the NASEM Mapping Sciences Committee and the Geographical Sciences Committee (2021)
 event_url: https://www.nationalacademies.org/event/12-08-2021/accelerating-the-analysis-of-geographic-change
@@ -28,4 +28,4 @@ title: Better Science for Future Us
 Julie Lowndes and I presented an invited talk “Better Science for Future Us” virtually at the 2021 NASEM joint Mapping Sciences Committee and the Geographical Sciences Committee Workshop, Accelerating the Analysis of Geographic Change, in a session “Data interoperability”. We realized in preparing for this talk that while often the focus is on tooling, what Openscapes provides is the connection between tools and people. 
 
 
-Cite as: Lowndes, J., & Robinson, E. (2021). Better Science for Future Us. Fall Meeting of the NASEM Mapping Sciences Committee and the Geographical Sciences Committee.
+Cite as: Robinson, E., & Lowndes, J. (2021). Better Science for Future Us. Fall Meeting of the NASEM Mapping Sciences Committee and the Geographical Sciences Committee.
