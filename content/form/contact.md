@@ -2,7 +2,7 @@
 date: "2019-02-25T13:38:41-06:00"
 description: If you have similar interests or ideas for collaboration, please send me a note. You can email or use the form.
 draft: false
-formspree_form_id: f/xrgjbpqr 
+formspree_form_id: /f/xrgjbpqr 
 layout: split-right
 name: Contact Us Form
 show_poweredby_formspree: true
