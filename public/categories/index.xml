@@ -6,7 +6,25 @@
     <description>Recent content in Categories on Erin Robinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://erinrobinson.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Dec 2021 09:20:00 -0700</lastBuildDate><atom:link href="https://erinrobinson.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>conference</title>
+      <link>https://erinrobinson.info/categories/conference/</link>
+      <pubDate>Fri, 17 Dec 2021 09:20:00 -0700</pubDate>
+      
+      <guid>https://erinrobinson.info/categories/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>https://erinrobinson.info/categories/workshop/</link>
+      <pubDate>Wed, 08 Dec 2021 11:30:00 -0700</pubDate>
+      
+      <guid>https://erinrobinson.info/categories/workshop/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Theme Features</title>
       <link>https://erinrobinson.info/categories/theme-features/</link>
@@ -26,15 +44,6 @@
     </item>
     
     <item>
-      <title>workshop</title>
-      <link>https://erinrobinson.info/categories/workshop/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinrobinson.info/categories/workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>R</title>
       <link>https://erinrobinson.info/categories/r/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
@@ -44,20 +53,11 @@
     </item>
     
     <item>
-      <title>meetup</title>
-      <link>https://erinrobinson.info/categories/meetup/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
+      <title>Current Project</title>
+      <link>https://erinrobinson.info/categories/current-project/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://erinrobinson.info/categories/meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>package</title>
-      <link>https://erinrobinson.info/categories/package/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinrobinson.info/categories/package/</guid>
+      <guid>https://erinrobinson.info/categories/current-project/</guid>
       <description></description>
     </item>
     

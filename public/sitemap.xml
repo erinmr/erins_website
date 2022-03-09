@@ -38,13 +38,28 @@
     <loc>https://erinrobinson.info/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://erinrobinson.info/blog/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://erinrobinson.info/categories/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-17T09:20:00-07:00</lastmod>
+  </url><url>
+    <loc>https://erinrobinson.info/categories/conference/</loc>
+    <lastmod>2021-12-17T09:20:00-07:00</lastmod>
   </url><url>
     <loc>https://erinrobinson.info/</loc>
+    <lastmod>2021-12-17T09:20:00-07:00</lastmod>
+  </url><url>
+    <loc>https://erinrobinson.info/talk/agu-open-project-design/</loc>
+    <lastmod>2021-12-17T09:20:00-07:00</lastmod>
+  </url><url>
+    <loc>https://erinrobinson.info/talk/</loc>
+    <lastmod>2021-12-17T09:20:00-07:00</lastmod>
+  </url><url>
+    <loc>https://erinrobinson.info/talk/nasem-better-science-/</loc>
+    <lastmod>2021-12-08T11:30:00-07:00</lastmod>
+  </url><url>
+    <loc>https://erinrobinson.info/categories/workshop/</loc>
+    <lastmod>2021-12-08T11:30:00-07:00</lastmod>
+  </url><url>
+    <loc>https://erinrobinson.info/blog/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://erinrobinson.info/blog/social/</loc>
@@ -74,15 +89,6 @@
     <loc>https://erinrobinson.info/categories/evergreen/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://erinrobinson.info/talk/campfire/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erinrobinson.info/talk/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erinrobinson.info/categories/workshop/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://erinrobinson.info/series/a-spoonful-of-hugo/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -101,35 +107,29 @@
     <loc>https://erinrobinson.info/blog/seedling/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://erinrobinson.info/talk/second-seedling/</loc>
-    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
+    <loc>https://erinrobinson.info/categories/current-project/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://erinrobinson.info/categories/meetup/</loc>
-    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
+    <loc>https://erinrobinson.info/project/fair-island/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erinrobinson.info/project/nasa-openscapes-framework/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erinrobinson.info/project/openscapes/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://erinrobinson.info/project/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://erinrobinson.info/blog/rmarkdown/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://erinrobinson.info/talk/seedling/</loc>
-    <lastmod>2020-01-13T14:15:59-06:00</lastmod>
-  </url><url>
-    <loc>https://erinrobinson.info/project/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erinrobinson.info/categories/package/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erinrobinson.info/project/giraffes/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <loc>https://erinrobinson.info/talk/leptoukh-lecture/</loc>
+    <lastmod>2020-12-10T18:30:00-07:00</lastmod>
   </url><url>
     <loc>https://erinrobinson.info/blog/css-grid-scaffold/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erinrobinson.info/project/penguins/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://erinrobinson.info/project/bakeoff/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://erinrobinson.info/blog/built-in-contact-form/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>

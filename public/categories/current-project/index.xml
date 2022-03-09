@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current Project on Erin Robinson</title>
+    <link>https://erinrobinson.info/categories/current-project/</link>
+    <description>Recent content in Current Project on Erin Robinson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://erinrobinson.info/categories/current-project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAIR Island</title>
+      <link>https://erinrobinson.info/project/fair-island/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinrobinson.info/project/fair-island/</guid>
+      <description>About the FAIR Island Project     The FAIR Island Project, a collaboration between the California Digital Library, UC Berkeley, DataCite, Metadata Game Changers and the Tetiaroa Society. The primary goal of the Project is to develop optimal data policies and robust technical infrastructure necessary to create an environment in which all data and knowledge collected at a field station are curated and made openly available as quickly as possible.</description>
+    </item>
+    
+    <item>
+      <title>NASA Openscapes Framework</title>
+      <link>https://erinrobinson.info/project/nasa-openscapes-framework/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinrobinson.info/project/nasa-openscapes-framework/</guid>
+      <description>About the NASA Openscapes Framework     The overarching vision is to support scientific researchers using NASA Earthdata as they migrate their workflows to the cloud. We are doing this working with NASA Distributed Active Archive Centers (DAACs) over three years by:
+  Developing a cross-DAAC Mentor community that supports growth into confident cloud data instructors, and create, curate and use shared resources and have a tutorial review process</description>
+    </item>
+    
+    <item>
+      <title>Openscapes</title>
+      <link>https://erinrobinson.info/project/openscapes/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinrobinson.info/project/openscapes/</guid>
+      <description>About Openscapes     The Openscapes approach develops open, inclusive practices in environmental and Earth science to help uncover data-intensive solutions faster. Openscapes was created by Dr. Julia Stewart Lowndes in 2019 as part of her Mozilla Open Leadership Fellowship. During this time, she created the flagship Champions mentorship program, which helps teams develop collaborative practices that are more reproducible, transparent, inclusive, and kind. I joined Openscapes after the first two cohorts at the end of 2020 and am now the Openscapes co-Director.</description>
+    </item>
+    
+  </channel>
+</rss>

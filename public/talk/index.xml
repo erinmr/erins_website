@@ -1,37 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks that Last on Erin Robinson</title>
+    <title>Talks on Erin Robinson</title>
     <link>https://erinrobinson.info/talk/</link>
-    <description>Recent content in Talks that Last on Erin Robinson</description>
+    <description>Recent content in Talks on Erin Robinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://erinrobinson.info/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Dec 2021 09:20:00 -0700</lastBuildDate><atom:link href="https://erinrobinson.info/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A campfire</title>
-      <link>https://erinrobinson.info/talk/campfire/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Open Project Design</title>
+      <link>https://erinrobinson.info/talk/agu-open-project-design/</link>
+      <pubDate>Fri, 17 Dec 2021 09:20:00 -0700</pubDate>
       
-      <guid>https://erinrobinson.info/talk/campfire/</guid>
-      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
+      <guid>https://erinrobinson.info/talk/agu-open-project-design/</guid>
+      <description>Julie Lowndes and I presented an invited paper “Open Project Design: Lessons from the NASA Openscapes Framework” virtually at the 2021 American Geophysical Union (AGU) annual conference, in a session “Open Science In Action” convened by Dr. Chelle Gentemann and colleagues.
+Abstract: Open source software is about more than code: it’s about welcoming a broadening audience to a shared vision and planning for sustainability. We’ll cover considerations for open project design focused on inclusion, community building, web presence, and technology choices, sharing strategies from the NASA Openscapes Framework as an example.</description>
     </item>
     
     <item>
-      <title>A seedling</title>
-      <link>https://erinrobinson.info/talk/second-seedling/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
+      <title>Better Science for Future Us</title>
+      <link>https://erinrobinson.info/talk/nasem-better-science-/</link>
+      <pubDate>Wed, 08 Dec 2021 11:30:00 -0700</pubDate>
       
-      <guid>https://erinrobinson.info/talk/second-seedling/</guid>
-      <description></description>
+      <guid>https://erinrobinson.info/talk/nasem-better-science-/</guid>
+      <description>Julie Lowndes and I presented an invited talk “Better Science for Future Us” virtually at the 2021 NASEM joint Mapping Sciences Committee and the Geographical Sciences Committee Workshop, Accelerating the Analysis of Geographic Change, in a session “Data interoperability”. We realized in preparing for this talk that while often the focus is on tooling, what Openscapes provides is the connection between tools and people.
+Cite as: Robinson, E., &amp;amp; Lowndes, J.</description>
     </item>
     
     <item>
-      <title>A seedling</title>
-      <link>https://erinrobinson.info/talk/seedling/</link>
-      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
+      <title>Invited - Putting Data to Work</title>
+      <link>https://erinrobinson.info/talk/leptoukh-lecture/</link>
+      <pubDate>Thu, 10 Dec 2020 18:30:00 -0700</pubDate>
       
-      <guid>https://erinrobinson.info/talk/seedling/</guid>
-      <description></description>
+      <guid>https://erinrobinson.info/talk/leptoukh-lecture/</guid>
+      <description>Abstract     We live in a world rich with data, where use and reuse would benefit not just science but also serve national security and society-at-large. Air quality impacts from forest fires, which are increasing in frequency, is one example of large, data-intensive science with societal impacts. Understanding long-range transport of smoke where I started my career and worked with Dr. Greg Leptoukh, for whom this lecture is named, required a variety of datasets from satellite, surface observations and models.</description>
     </item>
     
   </channel>
