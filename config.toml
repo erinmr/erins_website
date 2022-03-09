@@ -137,7 +137,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "https://github.com/erinmr/automated-CV/blob/755f99648feb81429974b2f2a77545739784b472/CV.pdf"
+    url = "https://erinmr.github.io/automated-CV/CV.pdf"
     weight = 6
     
   # Configure footer  
