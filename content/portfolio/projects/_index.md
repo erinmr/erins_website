@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /projects
 description: |
-  A list of my talks. 
+  Projects I support 
 layout: list
 show_author_byline: true
 show_button_links: true
