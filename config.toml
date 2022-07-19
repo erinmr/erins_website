@@ -124,11 +124,11 @@ enableEmoji = true
     #title = "Erin's CV"
     #url = "/CV/"
     #weight = 3
-  [[menu.header]]
-   name = "Talks"
-   title = "Talks"
-   url = "/talk/"
-   weight = 4
+  #[[menu.header]]
+   #name = "Talks"
+   #title = "Talks"
+   #url = "/talk/"
+   #weight = 4
   [[menu.header]]
     name = "Portfolio"
     title = "Portfolio"
