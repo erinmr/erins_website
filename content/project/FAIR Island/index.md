@@ -13,13 +13,13 @@ links:
   url: https://www.fairisland.org/
 - icon: github
   icon_pack: fab
-  name: code
-  url: https://github.com/CDLUC3/FAIRIsland
-subtitle: A field station information infrastructure imaginary 
+  name: Policy
+  url: https://github.com/FAIRIslandProject
+subtitle: Supporting scientific field stations as they put FAIR + CARE Principles into practice. 
 tags:
 - hugo-site
 title: FAIR Island
 ---
 
 ## About the FAIR Island Project
-The FAIR Island Project, a collaboration between the California Digital Library, UC Berkeley, DataCite, Metadata Game Changers and the Tetiaroa Society. The primary goal of the Project is to develop optimal data policies and robust technical infrastructure necessary to create an environment in which all data and knowledge collected at a field station are curated and made openly available as quickly as possible. The host of our initial field station, the Tetiaroa Ecostation, grounds our work and provides an initial place to implement and evolve the policies and infrastructure in the real world. We believe that through this collaboration the Project will make research data and outputs collected at the Tetiaroa Ecostation and other field sites more findable, accessible, interoperable and reusable and will accelerate that research to the benefit of all stakeholders. 
+The FAIR Island Project translates FAIR Data Principles (Wilkinson et al., 2016) and the CARE Principles for Indigenous Data Governance (Carroll et al., 2020) into practice for scientific field stations through the development of place-based data policies and critical research infrastructure centered on machine-actionable data management plans. The FAIR Island Project is a collaboration between the California Digital Library, UC Berkeley, DataCite, Metadata Game Changers and the Tetiaroa Society.   
