@@ -7,7 +7,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: true
     text_link_label: View portfolio
-    text_link_url: /portfolio/
+    text_link_url: /portfolio 
 description:   
 layout: list
 show_author_byline: false
