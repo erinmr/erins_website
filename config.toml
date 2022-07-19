@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A central spot about me."
   favicon = "/img/favicon.ico"
   #logo = "/img/ER-Home-Image.png"
-  mainSections = [ "project", "talk"] #"blog",
+  mainSections = [ "project", "talk", "blog"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -114,11 +114,11 @@ enableEmoji = true
     title = "About Erin"
     url = "/about/"
     weight = 1
-# [[menu.header]]
- #  name = "Blog"
-  # title = "Blog"
-   #url = "/blog/"
-   #weight = 2
+ [[menu.header]]
+   name = "Blog"
+   title = "Blog"
+   url = "/blog/"
+   weight = 2
   #[[menu.header]]
    # name = "CV"
     #title = "Erin's CV"
