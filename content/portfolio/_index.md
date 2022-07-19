@@ -6,7 +6,7 @@ cascade:
   show_post_date: true
   sidebar:
     show_sidebar_adunit: true
-    text_link_label: View all projects
+    text_link_label: View portfolio
     text_link_url: /portfolio/
 description:   
 layout: list
@@ -22,7 +22,8 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: A Sidebar for Your Projects
-title: Project Portfolio
+title: Portfolio
+subtitle: Consultancy, Speaking, Research and Projects  
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
